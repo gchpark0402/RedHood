@@ -1,5 +1,6 @@
 # RedHood
 <img width="587" alt="MainScene" src="https://github.com/gchpark0402/RedHood/assets/82821064/7ec35df6-3bea-412e-8cb6-6c64ab8c03d5">
+
 -Pygame, Cocos2D로 제작한 2d platformer game입니다.
 - 총 4개의 스테이지를 구현하였으며 튜토리얼, 작은 몬스터방, 중간 보스(흑마법사), 보스(왕)으로 이루어져 있습니다.
 - Player는 근접 공격, 중거리 공격, 점프, 슬라이드(회피) 총 4개의 동작을 할 수 있습니다.
