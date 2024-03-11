@@ -13,4 +13,4 @@ https://youtu.be/yBQ0X-UyjiQ
 - 보스는 플레이어를 계속 쫓아 오며, 근접 공격 및 몬스터 소환(유도 장판) 공격을 합니다.
   
 ---
-만약 SDL.dll을 찾을 수 없다는 오류 메세지가 뜬다면 SDL 폴더의 SDL.dll과 SDL_mixer.dll을 C/Window/System32에 복사하시면 오류가 해소됩니다.
+만약 SDL.dll을 찾을 수 없다는 오류 메세지가 뜬다면 SDL.dll과 SDL_mixer.dll을 C/Window/System32에 복사하시면 오류가 해소됩니다.
